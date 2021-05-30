@@ -1,0 +1,49 @@
+# depslib dependency file v1.0
+1589288632 source:d:\poo\operatiinrreal2\main.cpp
+	<iostream>
+	<math.h>
+	"NrReale.h"
+	<conio.h>
+	<string.h>
+
+1589285582 d:\poo\operatiinrreal2\nrreale.h
+	<iostream>
+	<math.h>
+
+1589286152 source:d:\poo\operatiinrreal2\nrreale.cpp
+	"NrReale.h"
+	<iostream>
+	<math.h>
+
+1589380397 source:d:\facultate\poo\operatiinrreal2\main.cpp
+	<iostream>
+	<math.h>
+	"NrReale.h"
+	<conio.h>
+	<string.h>
+
+1589285582 d:\facultate\poo\operatiinrreal2\nrreale.h
+	<iostream>
+	<math.h>
+
+1590628821 source:d:\facultate\poo\operatiinrreal2\nrreale.cpp
+	"NrReale.h"
+	<iostream>
+	<math.h>
+
+1622405431 source:c:\users\vizi\desktop\operatiinrreal2\operatiinrreal2\main.cpp
+	<iostream>
+	<math.h>
+	"NrReale.h"
+	<conio.h>
+	<string.h>
+
+1589285582 c:\users\vizi\desktop\operatiinrreal2\operatiinrreal2\nrreale.h
+	<iostream>
+	<math.h>
+
+1590938949 source:c:\users\vizi\desktop\operatiinrreal2\operatiinrreal2\nrreale.cpp
+	"NrReale.h"
+	<iostream>
+	<math.h>
+
